@@ -79,7 +79,6 @@
 ---
 
 # 🚀 Featured Projects
-# 🚀 Featured Projects
 
 <table>
 <tr>
@@ -116,7 +115,8 @@
 
 ## 🖥 MiniMate
 
-### Linux Desktop Productivity Assistant
+### Linux Desktop Productivit
+<img src="https://github.com/abhikasarla03/MiniMate/raw/main/Screenshots/dashboard.png" width="100%">y Assistant
 
 ✔ Modern Dashboard
 

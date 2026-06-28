@@ -79,10 +79,46 @@
 ---
 
 # 🚀 Featured Projects
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🤖 Multilingual AI Humanoid Chatbot
+
+<img src="https://github.com/abhikasarla03/Multilingual-Humanoid-Chatbot/raw/main/banner.jpeg" width="100%">
+
+### AI Powered 3D Customer Support Assistant
+
+✔ Real-Time Voice Interaction
+
+✔ 3D Humanoid Avatar
+
+✔ Multilingual Support
+
+✔ RAG + Pinecone
+
+✔ Azure Neural Speech
+
+✔ Three.js
+
+<br>
+
+<a href="https://github.com/abhikasarla03/Multilingual-Humanoid-Chatbot">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%">
 
 ## 🖥 MiniMate
 
-Modern Linux Desktop Productivity Assistant
+### Linux Desktop Productivity Assistant
+
+✔ Modern Dashboard
 
 ✔ System Monitor
 
@@ -90,22 +126,42 @@ Modern Linux Desktop Productivity Assistant
 
 ✔ Desktop Utilities
 
-✔ Modern Dashboard
+✔ Python + CustomTkinter
 
-🔗 https://github.com/abhikasarla03/MiniMate
+<br>
+
+<a href="https://github.com/abhikasarla03/MiniMate">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🤖 AI Humanoid Assistant
+# 🌱 Currently Building
 
-Multilingual AI-powered customer support assistant.
+🚀 Personal Portfolio Website
 
-Currently under development.
+📊 Python DSA Repository
+
+🤖 AI Desktop Assistant
+
+☁ Cloud Projects
 
 ---
 
-## 🌐 Personal Portfolio
+# 🎯 2026 Goals
 
-Professional portfolio website showcasing projects, skills and certifications.
+✅ Build Production-Level Projects
 
-Coming Soon...
+✅ Contribute to Open Source
+
+✅ Master Python Development
+
+✅ Learn Full Stack Development
+
+✅ Crack Software Engineering Placements
+
